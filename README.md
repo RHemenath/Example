@@ -1,6 +1,3 @@
 # Example
 Example
-\
-
-
-dhgcjFHWK,CH
+branch 3
